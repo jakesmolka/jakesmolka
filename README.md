@@ -2,6 +2,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying EHRbase on Azure](http://blog.surrounded.space/post/2021/02/22/deploying-ehrbase-on-azure/)
+- [Time Tracking and System Integration via Zsh](http://blog.surrounded.space/post/2020/01/03/time-tracking-system-integration-zsh/)
+- [Automatic Backup with Borg to Hetzner Storagebox](http://blog.surrounded.space/post/2018/05/11/automatic-backup-borg-hetzner-storagebox/)
+- [Docker + Go](http://blog.surrounded.space/post/2017/11/20/docker-and-go/)
+- [Migration to SSD and reconfig of filesystem setup](http://blog.surrounded.space/post/2017/10/15/ssd-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
