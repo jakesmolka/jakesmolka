@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m working on [EHRbase](https://github.com/ehrbase), our open source Clinical Data Repository based on [openEHR](https://www.openehr.org/)
+🔭 I'm working at [Better](https://github.com/better-care/)
+
+Previously I worked on [EHRbase](https://github.com/ehrbase), an open source Clinical Data Repository based on [openEHR](https://www.openehr.org/)
 
 💬 Talk with me about Medical Informatics, (semantical) interoperablity, eHealth platforms and their architecture, well and openEHR of course
 
