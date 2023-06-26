@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-🔭 I'm working at [Better](https://github.com/better-care/)
+🔭 I'm working at [Better](https://github.com/better-care/) on FHIR Connect, see:
+- https://blog.better.care/introducing-fhir-connect
+- https://github.com/better-care/fhir-connect-mapping-spec
+
+Also check out my talk at the Spring I/O 2022: [Building a cloud-native health-care data integration with Dapr](https://www.youtube.com/watch?v=3giF_EmJ7l8)
 
 Previously I worked on [EHRbase](https://github.com/ehrbase), an open source Clinical Data Repository based on [openEHR](https://www.openehr.org/)
 
