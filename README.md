@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-🔭 I'm working at [Better](https://github.com/better-care/) on FHIR Connect, see:
+🔭 I'm working at [Vitagroup](https://vitagroup.ag) on the [Health Intelligence Platform](https://hip.vitagroup.ag).
+
+🎥 Check out my talk at the Spring I/O 2022: [Building a cloud-native health-care data integration with Dapr](https://www.youtube.com/watch?v=3giF_EmJ7l8).
+
+Previously I worked:
+
+➡️ at [Better](https://github.com/better-care/) on FHIR Connect, see:
 - https://blog.better.care/introducing-fhir-connect
 - https://github.com/better-care/fhir-connect-mapping-spec
 
-Also check out my talk at the Spring I/O 2022: [Building a cloud-native health-care data integration with Dapr](https://www.youtube.com/watch?v=3giF_EmJ7l8)
+➡️ on [EHRbase](https://github.com/ehrbase), an open source Clinical Data Repository based on [openEHR](https://www.openehr.org/).
 
-Previously I worked on [EHRbase](https://github.com/ehrbase), an open source Clinical Data Repository based on [openEHR](https://www.openehr.org/)
-
-💬 Talk with me about Medical Informatics, (semantical) interoperablity, eHealth platforms and their architecture, well and openEHR of course
+💬 Talk with me about Medical Informatics, (semantical) interoperablity, eHealth platforms and their architecture, cloud-native, well and openEHR of course.
 
 📫 How to reach me: [Twitter](https://twitter.com/JakeSmolka) - [LinkedIn](https://www.linkedin.com/in/jake-smolka-83ab401b7/) - [Email](mailto:jake.smolka@mailbox.org)
 
